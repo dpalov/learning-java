@@ -1,0 +1,28 @@
+As one of my friends told me "Java is a whole world" and it is. Java is a beast but in the best way possible. You can
+see by all of the books, external APIs and libraries, available for Java. Jave is the language of choice for backend
+server programming running on the majority of fortune 500 companies and many more small, medium and large businesses.
+
+You may notice i sometimes repeat
+
+packages and imports
+access modifiers
+anonymous classes
+casting arrays and numeric
+varargs
+default values
+white space
+Switch statement
+ternary
+Try/Catch
+Wrappr Classs
+Autoboxing
+length length()
+constructors
+naming conventions
+
+
+loops - for, enhanced for, while, do while. // Page 123 sybex simple for loop using an array.
+                                            // Page 128 sybex simple enhanced for loop with 2D array
+
+Arrays: I will show you the simplest way to do certain operations with arrays in java but throughout the basic java
+tutorials I will also show you more verbose ways of coding to get you familiar with the syntax of java.
